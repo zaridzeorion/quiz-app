@@ -12,4 +12,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser or
 
 ### How Project Looks Like:
 
-![Pomodoro Timer](https://i.ibb.co/kgFDPY0/Screenshot-5.png)
+![QuizApp](https://i.ibb.co/kgFDPY0/Screenshot-5.png)
