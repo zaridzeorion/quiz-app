@@ -8,3 +8,8 @@ To install required dependencies.
 
 ### `npm start`
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser or visit [deployed website](https://zaridzeorion.github.io/quiz-app/)
+
+
+### How Project Looks Like:
+
+![Pomodoro Timer](https://i.ibb.co/kgFDPY0/Screenshot-5.png)
