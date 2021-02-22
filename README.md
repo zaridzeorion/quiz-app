@@ -1,4 +1,5 @@
 # Quiz App
+An entertaining game of general education that is completely user modified. Test questions are received by fetching Trivia API.
 
 ## How to run on your local machine :arrow_heading_down:
 
