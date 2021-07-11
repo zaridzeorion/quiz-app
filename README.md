@@ -1,5 +1,6 @@
 # Quiz App
-An entertaining game of general education that is completely user modified. Test questions are received by fetching Trivia API.
+### About:
+An entertaining game of general education that is completely user modified. Test questions are received by fetching Trivia API. This was an internship assessment task from [Sweeft Digital](https://sweeftdigital.com/) and writing this appwas a great experience!
 
 ## How to run on your local machine :arrow_heading_down:
 
